@@ -88,7 +88,7 @@ mvn spring-boot:run
 
 - **Eureka Service Registry:**  
   Visualize and confirm active microservices.  
-  ![Eureka Dashboard](./docs/screenshots/eureka_dashboard.png)
+  ![Eureka Dashboard](Smart-Parking-Management-System/docs/screenshots/eureka_dashboard.png)
 
 ```
 SPMS/
